@@ -26,6 +26,10 @@ The following **optional** features are implemented:
 
 
 
+![prework](https://github.com/CarlosGuzman01/and102_prework/assets/120758068/81112253-aae4-4b18-af84-c13603404511)
+
+
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
